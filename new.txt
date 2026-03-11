@@ -1,1 +1,11 @@
 good morning
+ cd onedrive/desktop/Lab
+ git init
+git remote add origin https://github.com/Priyanka-123457/Lab.git
+ git add .
+git commit -m "initial commit"
+git push -u origin master
+git log 
+git status
+git clone  
+git reset
